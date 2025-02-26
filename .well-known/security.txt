@@ -1,0 +1,16 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Contact: mailto:Security@halplant.com
+Expires: 2027-01-01T04:59:00.000Z
+Encryption: openpgp4fpr:C59A2F7411399432B4570B61DDF2AA6167C318A1
+Preferred-Languages: en_GB,en_US
+Canonical: https://web.halplant.com/.well-known/security.txt
+
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQTBEfcbSHfXd4gPo9LF4uqWo19ssAUCZ79rJwAKCRDF4uqWo19s
+sNphAPwNi0RvQnpXmUH+p4K+9uO5MBxP8zVYvBaCeUe/Oxvd3QD9Et+R9x73uNeJ
+PUI8I0ahlVjPcysK1A1S3BaLkZjVzgw=
+=gd60
+-----END PGP SIGNATURE-----
