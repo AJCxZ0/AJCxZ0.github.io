@@ -1,0 +1,555 @@
+Andrew J. Caines
+
+703-968-0605
+A.J.Caines@halplant.com
+linkedin.com/in/ajcaines
+
+Professional Experience
+
+                            October 2006 - Present
+Systems Architect
+
+H.A.L. Plant, Vienna VA
+  • Evaluated Email Service Provider (ESP) platforms Sendgrid, Mailgun, and
+    Postmark
+  • Implemented strict SPF, DMARC, DKIM, and TLS for all mail with full
+    reporting
+  • Deployed asset discovery and vulnerability detection platform runZero
+    covering all on-premise and cloud systems
+  • Researched vulnerability detection platforms and evaluated Greenbone
+    OPENVAS SCAN
+  • Secured internal and cloud services as exclusive TLS/SSL using Let's
+    Encrypt certificates with corresponding CAA records
+  • Monitored and reported physical and virtual host performance metrics and
+    aggregated systemd logs with AI anomaly analytics using Netdata
+  • Hosted mail and other services on Linode / Akamai Cloud
+  • Enhanced devops team efficiency using multiple AI/GPT/LLM platforms
+    including Proton Lumo, OpenAI ChatGPT, Google Gemini, Anthropic Claude, xAI
+    Grok, and others via Quora Poe
+  • Developed and deployed web content with git version control migrated from
+    CVS using Continuous Integration / Continuous Deployment (CI/CD) pipelines
+    and publishing with Netlify and Github Pages
+  • Deployed multiple desktop systems running Ubuntu, Fedora, Manjaro, and
+    Linux Mint on x86_64 and Arch Linux on ARM 7 (Raspberry Pi 2) with EFI boot
+    with multiple desktop environments (GNOME, Unity, LXDM, Cinnamon), full
+    disk encryption (LUKS)
+  • Set up and managed services including web servers (thttpd, mini_httpd and
+    nginx) and proxies on multiple platforms, mail relay (Postfix 2.9) and
+    archive (Dovecot 2.0), IRC proxy (ZNC 1.4)
+  • Built local gigabit Ethernet and wireless 802.11ac/n network employing
+    distributed switches, Ethernet over powerline, multiple access points,
+    concentric firewalls, VoIP service and network printing (CUPS)
+  • Managed public and private (RFC1918) hosted DNS zones for multiple domains,
+    DHCP and DNS relay, resolution backed by OpenDNS
+  • Installed and configured nginx 1.4 web server for public web site and
+    Privoxy 3 filtering proxy on OpenWRT
+  • Created virtual machines running CentOS and Oracle Linux 6 and 7, Debian
+    Linux 7, Ubuntu 12.04 and 14.04 LTS, Arch Linux 4 and FreeBSD 9 and 10 on
+    Oracle VirtualBox 4 and 5
+  • Installed, configured and upgraded OpenWRT 15.05 on TP-LINK TL-WR1043ND V1
+    router/switch/wireless devices and set up isolated 802.11n wireless
+    networks for local and guest clients
+  • Created media server running Ubuntu 14.04 providing HTTP (nginx 1.8) and
+    DLNA (minidlna 1.1) with RAID 1 storage
+  • Configured redundant and backup disk storage (SATA III, eSATA, USB 3.0,
+    SSD, NFS, etc.) using RAID 1 and 5 including Linux software RAID (MD),
+    logical volume manager (LVM) and btrfs
+  • Deployed media clients including OSMC on Raspberry Pi 2, Roku 3500, Intel
+    Atom based media PC running Ubuntu 14.04
+  • Advised on setup of shared colocated mail server (Postfix and Dovecot on
+    FreeBSD) and evaluated Amazon Web Services Elastic Compute Cloud (AWS EC2)
+    hosting
+  • Set up multiple fully networked and power protected home theaters
+
+                              Dec 2019 - May 2022
+Linux Systems and Storage Architect
+
+Manufacturing Techniques, Inc. (MTEQ) / QinetiQ, Lorton, VA
+  • Managed machine learning / deep learning (ML/DL) environment
+  • Doubled NVIDIA Tesla V100 GPU capacity
+  • Maintained NVIDIA CUDA software and applications including JetBrains
+    PyCharm, PyTorch, TensorFlow
+  • Upgraded and expanded storage to redundant hardware-accelerated all flash
+    (SSD)
+  • Integrated RHEL and CentOS systems and users into proprietary directory
+    service
+  • Evolved and managed VMware vSphere ESXi and vCenter environment hosting
+    almost all on-premise applications and services
+  • Supported full lifecycle of server hardware, virtual systems, and Docker
+    containers running Linux and BSD platforms
+  • Supported full lifecycle of applications including Android Studio,
+    Atlassian Confluence and Jira, Gitlab Enterprise, HAProxy, Jenkins,
+    Mathworks MATLAB, Nginx, Red Hat Satellite, Spacewalk, Tenable Security
+    Center, Ubiquiti UniFi Network Server
+  • Secured entire Linux and FreeBSD platform environments and applications
+    running on them against all known security vulnerabilities including
+    complete remediation of the Apache Log4j Log4Shell vulnerability in
+    platforms, open source, COTS, and embedded products
+  • Deployed and managed security products and infrastructure incluiding ClamAV
+    anti-virus, Red Canary and Carbon Black endpoint detection and response
+    (EDR)
+  • Implemented Defense Information Systems Agency (DISA) Security Technical
+    Implementation Guide (STIG) on RHEL and Ubuntu servers including a
+    minimised and hardened platform for remote offline operations
+  • Completed Linux platform transformation for Defense Contract Management
+    Agency (DCMA) certification and worked on US Army Command, Control,
+    Communication, Computers, Cyber, Intelligence, Surveillance and
+    Reconnaissance (C5ISR) project
+  • Participated in complete local data center migration and consolidation of
+    remote data centers and migrated multiple legacy servers to virtual
+    infrastructure
+  • Overhauled Dell PowerEdge FX2 modular server with full firmware upgrades
+    and storage configuration with basic compliant OS install for shipment to
+    remote site
+  • Retired Google Cloud web hosting environments
+  • Assisted with company migration from Google Workspace to alternative
+    hosting platform, including setup of collaboration environment for the IT
+    department and support for the company
+  • Recovered systems, storage, and applications after multiple sitewide power
+    outages
+  • Installed and supported configuration of new office Cisco, Dell, and
+    Ubiquiti hardware
+  • Lead the transformation and migration from ad hoc amateur storage to
+    Enterprise class storage using iX Systems TrueNAS CORE and Zettabyte File
+    System (ZFS) on multiple Supermicro file servers providing securely
+    accessed, encrypted, segregated data in multiple categories including For
+    Official Use Only (FOUO)
+  • Designed and deployed scheduled dataset snapshot and replication scheme to
+    provide redundancy, user data backups, and resilience to ransomware
+  • Spearheaded deployment of individual private encrypted network storage to
+    entire company
+  • Integrated TrueNAS CORE systems and users into proprietary directory
+    service
+  • Rescued failed third party migration of Google Cloud data to on premise
+    storage
+  • Recovered from catastrophic storage failure without assistance from staff,
+    vendor or community
+  • Supported deployment of Dell EMC Isilon hardware and OneFS platform
+  • Completed US Department of Defense (DoD) training and certification
+    programs with perfect scores
+  • Trained junior systems administrator, IT helpdesk, hardware technicians,
+    application administrators, and other staff to support applications,
+    platforms, and storage, created and lead several metateams
+  • Provided comprehensive workflow, project, and issue tracking and
+    documentation using Atlassian Jira and Confluenece
+  • Supported staff reorganisation on and off site during the COVID19 pandemic
+    and integration of company into new parent company
+  • Managed relationships with vendors including Red Hat, Dell, Atlassian, iX
+    Systems, Tenable, Gitlab, Red Canary, and Carbon Black
+
+                           April 2017 - October 2019
+Senior Linux Systems Engineer
+
+NIAID / CSRA Inc. / GDIT, Bethesda, MD
+  • 2019 Merit Award winner for individual work on a major project
+  • NIAID CIO Award winner 2017, twice winner 2018
+  • Collaborated on developing and operating hosting environment on Amazon Web
+    Service (AWS) employing containers (Docker), Microservices, Infrastructure
+    as Code provisioning (Terraform), CI/CD (GoCD) and a variety of cloud
+    services
+  • Managed full life cycle of and supporting infrastructure for Red Hat
+    Enterprise Linux (RHEL) 5, 6, 7 and 8 virtual and physical hosts, including
+    local repository mirrors
+  • Deployed VMs (VMware) from CI-CD (GoCD, Packer) built templates with
+    managed configurations (Puppet Enterprise, Hiera)
+  • Provided full life cycle support for all applications (including
+    Elasticsearch, Apache Hadoop, Spark, Tomcat and HTTP Server, nginx, MongoDB
+    , MySQL and PostgreSQL) on supported hosts in development, test, QA and
+    production environments in collaboration with developers, administrators
+    and scientists
+  • Devised and implemented policy and process for Linux VM storage, saving
+    significant capacity, cost and administrative overhead
+  • Re-engineered authentication services and management (OpenLDAP, Webmin, Red
+    Hat Enterprise IPA) for NIAID Linux and HPC environments for security and
+    compliance
+  • Deployed and managed Puppet Enterprise LTS with Hiera service and migrated
+    all environments to it
+  • Managed code repository, wiki and issue tracking service (GitHub Enterprise
+    ) for cloud and on-premise systems
+  • Migrated monitoring of all environments to SolarWinds Network Performance
+    Monitor
+  • Secured and improved standards compliance of all RHEL hosts to levels
+    exceeding requirements in preparation for GAO audit
+  • Built multiple custom RHEL platforms on HP and Dell servers including
+    firmware and service processors for network management, security and
+    storage services with varying levels of integration into the NIAID
+    environment
+  • Devised and provided procedure, documentation and training for VM
+    administration with vSphere and related tools for other NIAID teams
+  • Evaluated and/or deployed several endpoint security solutions for RHEL
+    hosts
+
+                            June 2012 - April 2015
+Senior Unix Systems Engineer
+
+Neovera, Reston VA
+  • Supported inhomogeneous hosting environments for customers including major
+    US newspaper and bank, multinational educational institution, investment
+    company, nonprofit and streaming provider
+  • Built and supported environments running Red Hat Enterprise Linux (RHEL 4,
+    5, 6 and 7), CentOS 5, 6 and 7, Oracle Linux 6 and 7, Debian Linux 5, 6 and
+    7 on VMware ESXi 4 and 5, Dell and HP servers
+  • Lead adoption, deployment and support of RHEL 7 based platforms on physical
+    and virtual hosts
+  • Designed and created VMware host templates for CentOS, Oracle Linux and
+    Debian Linux for deployment to customer environment
+  • Evaluated and deployed Cisco UCS for VMware ESXi hosting platform employing
+    B-Series Blade Servers in a 5100 Series Blade Server Chassis
+  • Managed configurations for customer and Neovera environments with shared
+    and dedicated Puppet (including Puppet Enterprise) service
+  • Was Architect and engineer for multinational educational institution's
+    public and private web services, employing redundant web servers with third
+    party managed dynamic and static content on a three-tier LAMP stack of
+    nginx, PHP and MySQL running WordPress, Atlassian Jira, Confluence and
+    Stash
+  • Migrated production and DR web based investment site to Apache httpd on
+    RHEL with SELinux Enforcing and from NetApp to EMC NAS
+  • Installed Information Builders WebFOCUS and iWay products in multiple
+    environments for customer data warehouse project
+  • Maintained highly available clustered web, application and mail services
+    using Pacemaker, Corosync and DRDB
+  • Set up multiple Oracle RACs for customers
+  • Managed Neovera and customer DNS zones and services
+  • Lead or contributed to projects including kernel tuning for Oracle
+    databases, mass mail delivery, whois migration
+
+                             July 2010 - May 2012
+Senior Lead Unix Engineer
+
+U.S. Federal Trade Commission / HireStrategy / AAC / Digicon, Washington DC
+  • Contracted to the United States Federal Trade Commission supporting all
+    unix systems, federal government workers, contractors and suppliers
+  • Deployed and supported Sun/Fujitsu/Oracle M5000, M4000, Sun/Oracle Blade
+    T6130 and X6240 servers, X6000 chassis and Sun V series systems
+  • Supported NetApp and Sun StorEdge SAN storage, IronPort mail gateways
+  • Installed, configured and supported software including Solaris 8, 9 and 10,
+    Apache httpd and Tomcat, various web applications including EMC Documentum,
+    Micropact entellitrak, ISC BIND and Sun Java Desktop (Gnome)
+
+                            June 2009 - April 2010
+Linux Systems Administrator
+
+OPOWER, Arlington VA
+  • As first and only systems administrator, grew hosted environment supporting
+    company's entire business from a few ad-hoc servers to approx. twenty
+    servers in production, QA, development and other environments
+  • Supported all office systems and networking including
+      □ Juniper SSG20 router / firewall with Verizon FiOS uplink and automatic
+        failover to SpeakEasy DSL
+      □ Managed D-Link DES-3010PA PoE switch with multiple Proxim AP-700 WiFi
+        access points, HP Procurve 408 switch
+      □ Various printers, laptops, wired and wireless devices
+      □ All employees' IT needs and vendor relations
+      □ Troubleshooting, escalation and resolution of all connectivity problems
+  • Provisioned, configured, secured and maintained CentOS 5.x and Red Hat
+    Enterprise Linux 5.x servers on a variety of x86_64 hardware
+  • Managed production, QA and development web, application and database
+    systems
+  • Supported Apache httpd 2.x, Eclipse Jetty 6.x Java http/servlet server,
+    MySQL Enterprise and Community 5.0 and 5.1 using InnoDB and MyISAM, Apache
+    Maven, Subversion, R and other products
+  • Managed rapidly growing storage requirements across multiple environments:
+  • 
+      □ Increased local storage by adding disks to RAID and non-RAID sets
+        including Adaptec SATA/SAS controllers
+      □ Distributed data across nodes in each environment
+      □ Designed and deployed geographically distributed segmented NAS solution
+        across all environments using NFS over private gigabit network with
+        jumbo frames
+      □ Desinged storage solutions using SATA, 15 krpm SAS and SSD disks
+      □ Redesigned data and database backup solution including local disk
+        staging, storage server online archive, configured and deployed
+        MySQL-ZRM
+  • Supported developer, integration engineer and QA groups; entire company for
+    server, hosting and general technical issues
+  • Administered entire company's mail, messaging, calendars, shared documents
+    hosted on Google Apps (Premier)
+  • Migrated entire company's technical resources to new company name including
+    all hosting
+  • Supported managed web hosting and technical vendor relations for public web
+    site
+  • Provided all hostmaster (DNS) services for the company including domain
+    registration and management, migration of zone hosting provider and moving
+    resolution to OpenDNS
+  • Provided all postmaster (mail) services for the company including
+    addressing delivery issues and email service provider (ESP) relations
+  • Research and reported on international server hosting options and costs
+  • Consulted on and worked with vendors to provide Internet connectivity for
+    new office, troubleshooting and escalating connectivity problems, managed
+    service changes
+
+                          November 2007 - April 2009
+Senior Unix and Linux Systems Administrator
+
+Georgetown University, Washington DC
+  • Built, deployed and managed a console and service processor management
+    service using Avocent DSView 3, MergePoint 5200, Cyclades ACS48 and ACS6048
+    systems with
+  • 
+      □ Web (HTTPS) and ssh access employing single sign-on via LDAPS and
+        sophisticated access control
+      □ Control of ALOM, ILOM, DRAC and other service processor functions
+      □ Serial-over-LAN and serial access with configurable speed
+      □ Dial-in service for serial connected devices
+      □ iPDU management
+  • Installed, configured, updated and/or managed
+  • 
+      □ Solaris 10 on Sun Fire T5120, T2000 and T1000 CoolThreads systems
+      □ Solaris 10 on Sun Enterprise M5000 and M3000 SPARC64 systems
+      □ Sun ALOM, ILOM and XSCF service processors
+      □ Red Hat Enterprise Linux (RHEL) 5 server and desktop including VMware
+        virtual machines
+      □ Ubuntu 8 desktops and laptops including LUKS full disk encryption
+      □ Emulex HBAs including firmware and fcode
+      □ EMC PowerPath for redundant access to EMC CLARiiON SAN and NFSv4 for
+        Celerra NAS
+  • Upgraded and reconfigured BIND 9 master, slave and cache name servers in
+    response to cache poisoning threat
+  • Created and managed multiple full root zones (containers) for application
+    hosting
+  • Deployed applications including SunGard Banner, BlackBoard products
+  • Employed IPFilter for default deny IP host firewall filtering
+  • Consulted on load balancing architecture for applications using F5 BigIP
+    switches
+  • Performed security review of Red Hat AS4 NetBackup Server
+  • Installed, patched and configured NetBackup 6 clients
+  • Administered, developed content for and trained users on departmental wiki
+    using Altissian Confluence
+  • Supported and consulted for application developers, users, consultants and
+    colleagues
+
+                         October 2006 - November 2007
+Freelance/Contract Systems Engineer
+
+  • Installed, configured and manage hosting environment
+  • 
+      □ thttpd web server with local patches
+      □ Postfix mail relay
+      □ Dovecot IMAP/IMAPS mail server
+      □ NFS file server
+      □ CUPS print server
+      □ dnscache DNS caching name servers
+      □ Privoxy filtering web proxy server
+      □ dircproxy IRC proxy server
+      □ syslog log server
+      □ NUT UPS monitor
+  • Created and/or maintained FreeBSD ports for Postfix tools pflogstats and
+    postfinger and all BlackBox ports - blackbox, boxtools, bbkeys and bbpager
+  • Created and operated support channels for thttpd, AWStats and Syslog-NG and
+    provided support for Solaris, FreeBSD, Postfix, SpamAssassin, Dovecot,
+    Nagios, CUPS and other software
+  • Created and managed local network with pre-N wifi, router, firewall and
+    NAT, Voice over IP (VoIP) service
+  • Added, upgraded and replaced hardware components
+  • Diagnosed and resolved failed server hardware
+  • Designed, built, installed, configured and managed advanced desktop system
+    and multimedia laptop
+  • Designed, deployed and managed server and desktop backup solution
+
+                          July 2005 - September 2006
+Senior Unix Systems Engineer, Internet Access Web Operations
+
+America Online, Inc. / AOL, LLC, Reston VA
+  • Managed web proxy complex in four domestic and five international data
+    centers giving web access to all AOL and Netscape users
+  • Personally responsible for caching web proxy server clusters, compression
+    server clusters, TopSpeed® server clusters, Parental Controls management
+  • Re-architected compression infrastructure to maximise efficiency and
+    minimise hardware requirements, saving tens of thousands of dollars per
+    year
+  • Administered thousands of HP and Dell servers running Red Hat Enterprise
+    Linux (RHEL) Application Server (AS 2, 3 and 4), commercial, open source
+    and custom applications through full life cycle
+  • Performed and directed clustered applications migrations
+  • Co-ordinated and oversaw ACL updates for data center switches
+  • Monitored, assessed and reported on performance of applications, servers,
+    clusters and data centers, investigated and reported on anomalies
+  • Investigated abuse and security issues affecting various services,
+    co-ordinated with Operations Security group
+  • Manged DNS servers, application and zone data
+  • Provided regular training and mentoring to NOC staff
+  • Configured managed servers for Kerberos authentication
+  • Installed, configured and managed mail services for Operations division
+      □ Postfix mail server with multi-layered spam filtering including SMTP
+        restrictions and DNSBL lookups
+      □ SpamAssassin with Bayes, URIDNSBL and collaborative databases (Razor
+        and Pyzor)
+      □ ClamAV virus checker run from Amavis
+      □ Dovecot IMAP, IMAPS and POP mail server
+  • Set up mail filtering reports for users and admins, provided support for
+    mail issues
+  • Interviewed prospective team member and management candidates
+
+June 2004 - July 2005
+
+Freelance/Contract Systems Engineer
+
+  • Analysed complex high volume and availability web and application hosting
+    environment for time based constraints and conflicts
+  • Provided visualisation tools for data analysis, reports and other materials
+  • Advised on systems, network and storage performance issues in collaboration
+    with project team
+  • Researched and advised on issues affecting mixed Solaris and Red Hat Linux
+    platforms on Sun, Dell and IBM hardware running WebLogic Application Server
+    and Cluster, SunONE Web Server, Oracle databases and NetApp storage
+  • Set up shared system and application sources filesystem for multiple OS
+    versions
+  • Contributed documentation to the ProFTPD and other projects
+  • Researched, designed and implemented integrated monitoring solution based
+    on multiple monitoring tools
+  • Installed, configured and managed applications including Nagios, MRTG and
+    Apache
+  • Designed and implemented unified web interface to monitoring application,
+    providing administrative and independent customer views of data
+  • Demonstrated software operation to customer
+  • Documented application and reference implementation
+
+October 2003 - June 2004
+
+Senior Unix Systems Engineer (Contract)
+
+InfoStructures / Smithsonian Institution, Rockville MD / Washington DC
+  • Designed, built, configured and managed public FTP/FTPS server for the
+    Institution
+  • Designed, built, configured and managed CVS server for code, configuration
+    and document version management
+  • Designed, built and configured central logging server for Institution
+    systems
+  • Hardened and secured Solaris production servers and network services
+  • Created and maintained comprehensive documentation of applications and
+    operations
+  • Created flexible high performance mail delivery reporting tool
+  • Created customised packaged software
+  • Designed and configured redundant and resilient storage for systems and
+    applications
+  • Consulted on mail server configuration, filtering and anti-spam measures
+  • Consulted on web server configuration and operation
+  • Consulted on DNS infrastructure, server configuration and operation
+  • Consulted on web hosting infrastructure
+  • Consulted on Oracle runtime environment issues
+  • Consulted on Solaris system build and configuration standards
+  • Consulted on security issues, access and authentication methods, legal
+    compliance
+  • Trained and supported application administrators
+  • Configured Cyclades console server for Sun systems console access
+
+January 2001 - November 2002
+
+Team Lead, Web Hosting Unix Operations
+
+WorldCom / UUNET, Ashburn / Reston VA
+  • Provided technical advice and direction to management and staff
+  • Oversaw the day-to-day operations work of my team
+  • Provided technical and systems support to Unix Operations group
+  • Created systems infrastructure to support the functions of Unix Operations
+    group
+  • Created and delivered Solaris training course to Web Hosting staff
+  • Spearheaded cross-group initiatives to improve operational functions
+  • Facilitated integration of multiple groups in single support unit
+  • Continued active systems engineering and customer support
+
+March 1999 - January 2001
+
+Senior Systems Software Engineer, Web Hosting Unix Operations
+
+UUNET Technologies, Reston VA
+  • Managed large-scale heterogeneous web hosting environments employing Sun
+    systems
+  • Managed enterprise web hosting environments for multinational corporations,
+    government departments, large non-profit organisations and e-commerce
+    companies
+  • Planned, developed and deployed complex high availability web hosting
+    architectures
+  • Provided 24×7 systems and software support to site owners
+  • Created secure Sun systems for web and application hosting
+  • Advised customers and employer on system design and management issues
+  • Devised and implemented advanced system and web server configurations
+  • Spearheaded incident investigations and security initiatives
+  • Interviewed job candidates and performed technical assessments
+
+December 1998 - March 1999
+
+Unix Systems and Security Administrator
+
+National Association of Securities Dealers (NASD), Rockville MD
+  • Managed mission-critical application and web production enterprise servers
+  • Managed security of Sun systems
+  • Managed QC/QA and development application and web servers
+  • Designed, built and managed new servers
+  • Performed OS and application installations, upgrades and patches
+  • Monitored systems status and resource utilisation
+  • Co-ordinated move of systems to new data center
+  • Performed on-call duties
+  • Worked on Y2k rollover team
+  • Diagnosed and fixed system and network problems
+  • Designed and implemented security policy for Sun systems
+  • Liaised with and advised corporate security office
+
+March 1997 - October 1998
+
+Support Engineer
+
+Tracer Technologies, Lanham MD
+  • Installed, configured and maintained corporate web and FTP service
+  • Monitored, implemented and advised on computer and network security
+  • Assisted customers with all aspects of company's software and system issues
+  • Assisted other employees with computer and network related problems
+  • Advised customers on storage and other issues
+  • Designed, built and maintained corporate web site
+  • Created, designed, published and wrote for company's on-line newsletter
+  • Worked alongside company's sales and public relations teams
+  • Assisted systems administrator with routine administration and security
+  • Performed testing of software releases
+  • Wrote part of and advised on software interface
+  • Designed and wrote documentation for software
+
+October 1996 - March 1997
+
+Computer Operations Analyst
+
+Panasonic UK, Berkshire, England
+  • Oversaw and advised on the operation of unix systems including a multi-node
+    IBM SP/2 and several RS/6000 workstations
+  • Developed print management procedures for the company
+  • Devised and implemented backup policies and procedures
+  • Designed and implemented a program development and test environment using
+    Source Code Control System
+  • Maintained existing scripts and programs
+
+October 1995 - October 1996
+
+Research Student
+
+Queen Mary and Westfield College, London, England
+  • Analysed large sets of complex data collected by the OPAL detector using a
+    range of sophisticated computer systems
+  • Assisted in the operation of the OPAL detector at the LEP collider
+  • Presented results of my and others' research at national and international
+    conferences
+  • Wrote and developed analysis code to run on several platforms
+  • Installed and used code development software
+  • Wrote technical scientific documents
+  • Worked as part of a small group and international collaboration
+  • Designed personal web pages
+
+TRAINING AND CERTIFICATION
+
+November 2008 Red Hat Certified System Administrator #100-086-362
+April 1999    Sun Microsystems Ultra Enterprise 10000 Administration
+October 2000  Sun Microsystems Sun Cluster Administration
+
+EDUCATION
+
+1995-1996 Queen Mary and Westfield College; London, England
+          First year of Ph.D. Particle Physics
+1994-1995 University of Birmingham; Birmingham, England
+          Master of Science, Applied Radiation Physics
+1990-1994 University of Birmingham; Birmingham, England
+          Bachelor of Science (Honours), Physics
+
+LANGUAGE SKILLS
+
+English: Native speaker
+French:  Spoken and written
+German:  Spoken and written
+
