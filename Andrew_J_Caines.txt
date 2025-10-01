@@ -12,8 +12,8 @@ Systems Architect
 H.A.L. Plant, Vienna VA
   • Evaluated Email Service Provider (ESP) platforms Sendgrid, Mailgun, and
     Postmark
-  • Implemented strict SPF, DMARC, DKIM, and TLS for all mail with full
-    reporting
+  • Implemented strict SPF, DKIM, DMARC, MTA-STS, and TLS-RPT for all mail with
+    full reporting
   • Deployed asset discovery and vulnerability detection platform runZero
     covering all on-premise and cloud systems
   • Researched vulnerability detection platforms and evaluated Greenbone
