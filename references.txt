@@ -1,0 +1,67 @@
+References for Andrew J. Caines
+
+                         Danny Sullivan
+
+Systems Engineer
+(Manager, MTEQ/QinetiQ)
+
+Ntiva, Inc.
+7900 Westpark Drive, Unit A100
+Mclean, VA 22102
+540-623-0005
+Danny.Sullivan@ntiva.com
+
+ 
+
+                        Charles E. Haron
+
+Sr. Systems Engineer
+(Colleague, NIAID/CSRA/GDIT)
+
+GDIT
+3150 Fairview Park Drive
+Falls Church, VA 22042
+410-972-7319
+ceharon@gmail.com
+
+ 
+
+                        Michael Hertrick
+
+Engineer
+(Manager and Sr. Systems Architect, Neovera and colleague, UUNET)
+
+Salesforce
+1 Market
+San Francisco, CA 94105
+800-667-6389
+Michael.Hertrick@salesforce.com
+
+ 
+
+                          Andrew Stueve
+
+Sr. Solutions Architect
+(Team Lead, Neovera and UUNET)
+
+Neovera, Inc.
+1840 Michael Faraday Drive, Suite 240
+Reston, VA 20190
+703-462-1800
+Andrew.Stueve@neovera.com
+
+ 
+
+                         Christine Tran
+
+Systems Engineer
+Author "Pro OpenSolaris",
+"Oracle Solaris 11 System Administration The Complete Reference"
+(Former Sun Professional Services)
+
+GDIT
+3211 Jermantown Road
+Fairfax, VA 22030
+703-374-4504
+Christine.Tran@gdit.com
+
